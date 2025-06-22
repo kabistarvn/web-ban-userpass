@@ -1,0 +1,1 @@
+export default function AdminAccounts() { return <div>Admin quản lý tài khoản</div>; }
